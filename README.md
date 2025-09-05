@@ -1,1 +1,1 @@
-# Analysis-of-Advertising-media-on-Sales
+# Multivariate Linear Regression Model
